@@ -8,7 +8,7 @@
 
 - 📍 I’m From Uzbekistan (Xorazm)
 - 💻 2+ Years Experience in Back-end Development
-- 📙 I'm at The Bachelor's degree
+- 📙 I have a bachelor's degree.
 
 ### 🤝 Connect with me:
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/temurbek-rakhimkuliev-344b9b20a/) 
