@@ -1,7 +1,3 @@
-<img src="./assets/preview2.jpg">
-
-
-
 ### Hi all, I'm Temurbek Rakhimkuliev
 
 ## I'm a Backend Developer!
