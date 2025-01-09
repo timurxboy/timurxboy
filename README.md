@@ -3,7 +3,7 @@
 ## I'm a Backend Developer!
 
 - 📍 I’m From Uzbekistan (Xorazm)
-- 💻 2+ Years Experience in Back-end Development
+- 💻 3+ Years Experience in Back-end Development
 - 📙 I have a bachelor's degree.
 
 ### 🤝 Connect with me:
